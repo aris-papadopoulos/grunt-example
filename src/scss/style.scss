@@ -1,0 +1,6 @@
+@import 'foo';
+$bg-color : red;
+
+* {
+    background: $bg-color;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "grunt-example",
+  "version": "1.0.0",
+  "description": "Example of basic Grunt usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Aris Papadopoulos",
+  "license": "MIT",
+  "homepage": "",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-babel": "^7.0.0",
+    "grunt-contrib-clean": "^1.1.0",
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0"
+  }
+}
